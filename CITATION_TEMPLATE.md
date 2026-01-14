@@ -92,7 +92,7 @@ If you use these supplementary materials, please cite:
 [Page range]. DOI: [DOI]
 
 BibTeX:
-\`\`\`bibtex
+```bibtex
 @article{authorYYYY,
   title={Paper title},
   author={Author, First and Author, Second},
@@ -104,7 +104,6 @@ BibTeX:
   publisher={Publisher},
   doi={10.xxxx/xxxxx}
 }
-\`\`\`
 ```
 
 ## For Grant Proposals / Publications
